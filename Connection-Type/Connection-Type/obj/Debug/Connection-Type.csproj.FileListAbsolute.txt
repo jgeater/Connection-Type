@@ -1,0 +1,4 @@
+C:\Users\jgeau\Documents\Source\Utilities\Connection-Type\Connection-Type\bin\Debug\Connection-Type.exe
+C:\Users\jgeau\Documents\Source\Utilities\Connection-Type\Connection-Type\bin\Debug\Connection-Type.pdb
+C:\Users\jgeau\Documents\Source\Utilities\Connection-Type\Connection-Type\obj\Debug\Connection-Type.exe
+C:\Users\jgeau\Documents\Source\Utilities\Connection-Type\Connection-Type\obj\Debug\Connection-Type.pdb
